@@ -28,6 +28,7 @@ This project is an automated and interactive *Sales Dashboard* built using Micro
 
 ## 🧩 Preview
 
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/87698ec8-4f84-4a8a-b765-ba694cd2ab5d" />
 
 
 
